@@ -1,5 +1,5 @@
 # Todos
-link: https://sriharsha1228.ccbp.tech/
+link: https://sriharshatodo.ccbp.tech/
 
 It is a simple web page where you can save your Todos by adding text and clicking add button. 
 If you want to save it then by clicking save button you can save your todo.
